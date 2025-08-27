@@ -1,0 +1,23 @@
+{
+  "name": "FEMA Assistant",
+  "short_name": "FEMA Assistant",
+  "description": "Official FEMA disaster assistance chatbot for emergency support and resources",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "orientation": "portrait",
+  "categories": ["government", "emergency", "public safety"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23003366'/><text y='.9em' font-size='90' fill='white'>🏛️</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23003366'/><text y='.9em' font-size='90' fill='white'>🏛️</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
